@@ -1,4 +1,4 @@
 #Twitter Sent
 
-This was a final project for Interactive System Design. It uses the python Natural Language Tool Kit and Twitter's API to give user feed back about a certain key word or topic by performing sentiment analysis on a set of tweets.
+Yet another sentiment classifier for Twitter. The following project uses the python NLPTK library to create a naive-bayes classifier to categorize Tweets as positive or negative. 
 
